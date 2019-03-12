@@ -2,12 +2,12 @@
   profiles: 
     active:
     - dev
----
+--- 
 spring:
   profiles: dev
   application:
     name: microservicecloud-config-icey-dev
----
+--- 
 spring:
   profiles: test
   application:
